@@ -4,7 +4,7 @@
 I'm a 💻 **Software developer** from 🇩🇪 **Germany, Berlin**.\
 Very focused on 🛡️ **Cybser Security** and 📊 **Data science**.\
 I like to write bad code mostly in 🐍 **Python**,\
-But i also know some **HTML, CSS, JS**.\
+But i also know some **Webdevelopment**.\
 Currently, i am learning **C++**.
 I'm also a big 🐧 **Linux** enthusiast.
 
