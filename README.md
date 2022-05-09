@@ -8,6 +8,7 @@ But i also have some 🕸️ **Webdevelopment** skills.\
 I'm also a big 🐧 **Linux** enthusiast.
 
 **Mastodon**: https://mastodon.social/web/@MatrixBytes
+**Twitter**: https://twitter.com/BytesMatrix
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatrixBytes)](https://github.com/anuraghazra/github-readme-stats)
