@@ -2,7 +2,8 @@
  
   **Hi! I'm MatrixBytes**
  
-  <img src="banner.gif" alt=”my banner”>
+  <img src="banner.gif" alt="banner">
+ 
  
   --------
 
