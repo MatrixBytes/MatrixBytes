@@ -1,5 +1,6 @@
-**Hi! I'm MatrixBytes**
---------
+<div id="header" align="center">
+  **Hi! I'm MatrixBytes**
+</div>
 
 I'm a 💻 **Software developer** from 🇩🇪 **Germany, Berlin**.\
 Very focused on 🛡️ **Cybser Security** and 📊 **Data science**.\
