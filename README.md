@@ -7,6 +7,11 @@ I like to write bad code mostly in 🐍 **Python** and **C++**,\
 But i also have some 🕸️ **Webdevelopment** skills.\
 I'm also a big 🐧 **Linux** enthusiast.
 
+My <a rel="me" href="https://mastodon.social/@programming">Mastodon</a>\
+My <a rel="twitter" href="https://twitter.com/BytesMatrix">Twitter</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatrixBytes)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Editors:</h3>
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -38,8 +43,3 @@ I'm also a big 🐧 **Linux** enthusiast.
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-My <a rel="me" href="https://mastodon.social/@programming">Mastodon</a>\
-My <a rel="twitter" href="https://twitter.com/BytesMatrix">Twitter</a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatrixBytes)](https://github.com/anuraghazra/github-readme-stats)
