@@ -7,7 +7,7 @@ I like to write bad code mostly in 🐍 **Python** and **C++**,\
 But i also have some 🕸️ **Webdevelopment** skills.\
 I'm also a big 🐧 **Linux** enthusiast.
 
-<h3>Editors</h3>:
+<h3>Editors:</h3>
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
