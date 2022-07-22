@@ -1,6 +1,7 @@
 <div id="header" align="center">
  
   **Hi! I'm MatrixBytes**
+  <img src="banner.gif" alt=”my banner”>
   --------
 
   I'm a 💻 **Software developer** from 🇩🇪 **Germany, Berlin**.\
