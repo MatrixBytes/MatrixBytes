@@ -10,8 +10,6 @@
   My <a rel="me" href="https://mastodon.social/@programming">Mastodon</a>\
   My <a rel="twitter" href="https://twitter.com/BytesMatrix">Twitter</a>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatrixBytes)](https://github.com/anuraghazra/github-readme-stats)
-
   <h3>Editors:</h3>
 
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
